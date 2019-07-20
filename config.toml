@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://lucytutors.co.uk"
 languageCode = "en-us"
 title = "Lucy Tutors"
 theme = "hugo-alageek-theme"
@@ -6,7 +6,6 @@ publishDir = "docs"
 author = "Lucy Whalley"
 
 [params]
-copyright = "© 2019 by Lucy Whalley"
-
+logofile = "https://lucydot.github.io/img/title.png"
 
 
