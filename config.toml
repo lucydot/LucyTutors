@@ -3,3 +3,10 @@ languageCode = "en-us"
 title = "Lucy Tutors"
 theme = "hugo-alageek-theme"
 publishDir = "docs"
+author = "Lucy Whalley"
+
+[params]
+copyright = "© 2019 by Lucy Whalley"
+copyrightUrl = "lucydot.github.io"
+
+
