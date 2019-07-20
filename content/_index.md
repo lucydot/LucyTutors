@@ -4,7 +4,7 @@ date = "2019-07-20"
 menu = "main"
 +++
 
-![](lucydot.github.io/LucyTutors/img/Lucy_whalley_fun.jpg)
+<img style="width:20%" src="https://lucydot.github.io/LucyTutors/img/Lucy_whalley_fun.jpg" />
 
 A **Test** site.
 
