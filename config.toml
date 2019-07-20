@@ -1,4 +1,4 @@
-baseURL = "http://lucytutors.co.uk"
+baseURL = "http://lucytutors.co.uk/"
 languageCode = "en-us"
 title = "Lucy Tutors"
 theme = "hugo-alageek-theme"
