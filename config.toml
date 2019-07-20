@@ -6,6 +6,6 @@ publishDir = "docs"
 author = "Lucy Whalley"
 
 [params]
-logofile = "https://lucydot.github.io/img/title.png"
+logofile = "http://lucydot.github.io/LucyTutors/img/title.png"
 
 

@@ -13,7 +13,7 @@ menu = "main"
 
 ## Who am I?
 
-Hello! I'm Lucy, your friendly neighbourhood maths tutor :).
+Hello! I'm Lucy, your friendly neighbourhood maths tutor :)
 
 * I am a qualified mathematics teacher, and I have taught maths in a variety of contexts - primary schools, colleges, universities and in the community.
 * I have a Masters degree in mathematical physics - i.e. I *love* maths.
