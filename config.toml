@@ -1,4 +1,4 @@
-baseURL = "http://lucytutors.co.uk/"
+baseURL = "https://lucydot.github.io/LucyTutors/"
 languageCode = "en-us"
 title = "Lucy Tutors"
 theme = "hugo-alageek-theme"

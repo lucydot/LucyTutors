@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lucy Tutors</title>
-    <link>http://example.org/</link>
+    <link>https://lucydot.github.io/LucyTutors/</link>
     <description>Recent content on Lucy Tutors</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lucydot.github.io/LucyTutors/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
